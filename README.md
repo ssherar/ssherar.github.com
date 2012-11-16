@@ -1,2 +1,2 @@
-ssherar.githuh.com
+ssherar.github.com
 ==================
