@@ -2,6 +2,15 @@
 layout: default
 title: Blog
 ---
+<ul class="post">
 {% for post in site.posts %}
-	<h3><a href="{{ post.url }}"> {{ post.title}}</a><h3>
+	<li>
+		<date class="pull-right muted" datetime="{{ post.date }}">{{ post.date | date: "%d %b" }}</date>
+
+		<h4><a href="{{ post.url }}"> {{ post.title}}</a></h4>
+		<p>
+			{{ post.content | strip_html | truncatewords: 100 }}
+		</p>
+	</div>
 {% endfor %}
+</ul>
