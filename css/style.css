@@ -37,7 +37,15 @@ body {
 .post h1 {
 	font-family: "Sanchez", sans-serif;
 	font-weight: normal;
+	color:#494949
 }
+
+.title,
+.title:hover{
+	color:#222;
+	text-decoration:none
+}
+
 
 .skills {
 	list-style: none;
