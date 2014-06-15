@@ -3,28 +3,35 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! My name is Sam Sherar and I am currently a fourth year student at the
+[University of Aberystwyth, Wales][1] studying MEng. Software Engineering.
+However, for the past year I have been working at [General Electric][2] in the
+Corporate business as an IT Intern: working on global initiatives and also
+developing certain toolkits which are being used today.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+##Code
 
-There are currently two themes built on Poole:
+So the question I get asked the most: **Sam! You're a software engineer,
+what's your favourite language**. And I have yet to give a difinitive answer to
+that question as I have so many! For example, I am proficient in:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+ * PHP
+ * Python
+ * Javascript
+ * Java
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+(and if you have a look at my [github account][github], you can see many projects
+which I've worked upon with these languages!)
 
-## Setup
+However, those 4 languages are never enough, so I have got working knowledge in:
 
-Some fun facts about the setup of this project include:
+  * Objective C/C/C++
+  * Ruby
+  * C#
+  * Bash
+  * ... and more will be added throughout the years!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+  [1]: http://www.aber.ac.uk/compsci
+  [2]: http://www.ge.com
+  [github]: http://github.com/ssherar
