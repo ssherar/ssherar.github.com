@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Sam Sherar'
+tagline:          'One cool cat developer working at GE '
+description:      'The personal playground and musings of Sam Sherar, a student at Aberystwyth Univeristy and an Intern at General Electric. Views are owned and endorsed by myself'
+url:              http://samsherar.co.uk
+
+author:
+  name:           'Sam Sherar'
+  url:            https://twitter.com/samsherar
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/ssherar
